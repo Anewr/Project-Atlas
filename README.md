@@ -1,5 +1,5 @@
 # Project-Atlas
-Project Atlas is a code name for an application de3dicated to oen communication and information sharing between its users. The aapplication will start out on 
+Project Atlas is a code name for an application dedicated to oen communication and information sharing between its users. The aapplication will start out on 
 the iOS platform and written in Swift but will be also coded and distributed for Android devices. 
 
 # Installation 
